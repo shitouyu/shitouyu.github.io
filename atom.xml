@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>河南金猪人工智能有限公司</title>
+  
+  <subtitle>河南金猪人工智能有限公司</subtitle>
+  <link href="/q/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-03T12:16:43.569Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Croaker</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>公司简介</title>
+    <link href="http://yoursite.com/post/hello-world/"/>
+    <id>http://yoursite.com/post/hello-world/</id>
+    <published>2019-03-03T13:51:17.851Z</published>
+    <updated>2019-03-03T12:16:43.569Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="宝典更新"><a href="#宝典更新" class="headerlink" title="宝典更新"></a>宝典更新</h2><h2 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h2><h2 id="学院简介"><a href="#学院简介" class="headerlink" title="学院简介"></a>学院简介</h2><h2 id="教程模式"><a href="#教程模式" class="headerlink" title="教程模式"></a>教程模式</h2><h2 id="学院历史"><a href="#学院历史" class="headerlink" title="学院历史"></a>学院历史</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;宝典更新&quot;&gt;&lt;a href=&quot;#宝典更新&quot; class=&quot;headerlink&quot; title=&quot;宝典更新&quot;&gt;&lt;/a&gt;宝典更新&lt;/h2&gt;&lt;h2 id=&quot;基本信息&quot;&gt;&lt;a href=&quot;#基本信息&quot; class=&quot;headerlink&quot; title=&quot;基本信息&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+      <category term="0.1河南金猪人工智能-电脑版" scheme="http://yoursite.com/categories/0-1%E6%B2%B3%E5%8D%97%E9%87%91%E7%8C%AA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E7%94%B5%E8%84%91%E7%89%88/"/>
+    
+      <category term="0.1招生简章" scheme="http://yoursite.com/categories/0-1%E6%B2%B3%E5%8D%97%E9%87%91%E7%8C%AA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E7%94%B5%E8%84%91%E7%89%88/0-1%E6%8B%9B%E7%94%9F%E7%AE%80%E7%AB%A0/"/>
+    
+    
+      <category term="招生简章" scheme="http://yoursite.com/tags/%E6%8B%9B%E7%94%9F%E7%AE%80%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新中...</title>
+    <link href="http://yoursite.com/post/gxing/"/>
+    <id>http://yoursite.com/post/gxing/</id>
+    <published>2019-03-03T12:42:57.000Z</published>
+    <updated>2019-03-03T12:44:26.704Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>功能说明文字</p><h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><p>语法说明文字</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><table><thead><tr><th>参数</th><th style="text-align:center">数据类型</th><th style="text-align:right">解释</th></tr></thead><tbody><tr><td>col 1 is</td><td style="text-align:center">left-aligned</td><td style="text-align:right">$1600</td></tr><tr><td>col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr><tr><td>col 3 is</td><td style="text-align:center">right-aligned</td><td style="text-align:right">$1</td></tr></tbody></table><h2 id="返回值"><a href="#返回值" class="headerlink" title="返回值"></a>返回值</h2><p>返回值说明文字</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">有序列表项</span><br><span class="line">有序列表项</span><br><span class="line">有序列表项</span><br></pre></td></tr></table></figure><h2 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h2><p>备注说明文字</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;功能&quot;&gt;&lt;a href=&quot;#功能&quot; class=&quot;headerlink&quot; title=&quot;功能&quot;&gt;&lt;/a&gt;功能&lt;/h2&gt;&lt;p&gt;功能说明文字&lt;/p&gt;
+&lt;h2 id=&quot;语法&quot;&gt;&lt;a href=&quot;#语法&quot; class=&quot;headerlink&quot; title=&quot;语法&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+      <category term="03.QUI界面" scheme="http://yoursite.com/categories/03-QUI%E7%95%8C%E9%9D%A2/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Delay 延时</title>
+    <link href="http://yoursite.com/post/delay-2/"/>
+    <id>http://yoursite.com/post/delay-2/</id>
+    <published>2019-03-03T04:34:29.000Z</published>
+    <updated>2019-03-03T12:46:47.562Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>功能说明文字</p><h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><p>语法说明文字</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><table><thead><tr><th>参数</th><th style="text-align:center">数据类型</th><th style="text-align:right">解释</th></tr></thead><tbody><tr><td>col 1 is</td><td style="text-align:center">left-aligned</td><td style="text-align:right">$1600</td></tr><tr><td>col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr><tr><td>col 3 is</td><td style="text-align:center">right-aligned</td><td style="text-align:right">$1</td></tr></tbody></table><h2 id="返回值"><a href="#返回值" class="headerlink" title="返回值"></a>返回值</h2><p>返回值说明文字</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">有序列表项</span><br><span class="line">有序列表项</span><br><span class="line">有序列表项</span><br></pre></td></tr></table></figure><h2 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h2><p>备注说明文字</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;功能&quot;&gt;&lt;a href=&quot;#功能&quot; class=&quot;headerlink&quot; title=&quot;功能&quot;&gt;&lt;/a&gt;功能&lt;/h2&gt;&lt;p&gt;功能说明文字&lt;/p&gt;
+&lt;h2 id=&quot;语法&quot;&gt;&lt;a href=&quot;#语法&quot; class=&quot;headerlink&quot; title=&quot;语法&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+      <category term="04.标准库函数" scheme="http://yoursite.com/categories/04-%E6%A0%87%E5%87%86%E5%BA%93%E5%87%BD%E6%95%B0/"/>
+    
+      <category term="01.基础库(Base)" scheme="http://yoursite.com/categories/04-%E6%A0%87%E5%87%86%E5%BA%93%E5%87%BD%E6%95%B0/01-%E5%9F%BA%E7%A1%80%E5%BA%93-Base/"/>
+    
+    
+      <category term="延时" scheme="http://yoursite.com/tags/%E5%BB%B6%E6%97%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>keypress</title>
+    <link href="http://yoursite.com/post/keypress/"/>
+    <id>http://yoursite.com/post/keypress/</id>
+    <published>2019-03-03T04:34:29.000Z</published>
+    <updated>2019-03-03T12:45:44.317Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>功能说明文字</p><h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><p>语法说明文字</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><table><thead><tr><th>参数</th><th style="text-align:center">数据类型</th><th style="text-align:right">解释</th></tr></thead><tbody><tr><td>col 1 is</td><td style="text-align:center">left-aligned</td><td style="text-align:right">$1600</td></tr><tr><td>col 2 is</td><td style="text-align:center">centered</td><td style="text-align:right">$12</td></tr><tr><td>col 3 is</td><td style="text-align:center">right-aligned</td><td style="text-align:right">$1</td></tr></tbody></table><h2 id="返回值"><a href="#返回值" class="headerlink" title="返回值"></a>返回值</h2><p>返回值说明文字</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">有序列表项</span><br><span class="line">有序列表项</span><br><span class="line">有序列表项</span><br></pre></td></tr></table></figure><h2 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h2><p>备注说明文字</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;功能&quot;&gt;&lt;a href=&quot;#功能&quot; class=&quot;headerlink&quot; title=&quot;功能&quot;&gt;&lt;/a&gt;功能&lt;/h2&gt;&lt;p&gt;功能说明文字&lt;/p&gt;
+&lt;h2 id=&quot;语法&quot;&gt;&lt;a href=&quot;#语法&quot; class=&quot;headerlink&quot; title=&quot;语法&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+      <category term="0.2基本命令" scheme="http://yoursite.com/categories/0-2%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/"/>
+    
+      <category term="0.1键盘命令" scheme="http://yoursite.com/categories/0-2%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/0-1%E9%94%AE%E7%9B%98%E5%91%BD%E4%BB%A4/"/>
+    
+    
+      <category term="键盘" scheme="http://yoursite.com/tags/%E9%94%AE%E7%9B%98/"/>
+    
+  </entry>
+  
+</feed>
